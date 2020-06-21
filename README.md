@@ -1,4 +1,5 @@
 # HOST-FINDER
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=for-the-badge" alt="MADE WITH BASH SCRIPT">
 A simple tool that scan LIVE HOST or IP ADDRESS on your network using NMAP.
 #
 # FEATURES
