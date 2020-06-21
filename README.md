@@ -2,21 +2,14 @@
 A simple tool that scan LIVE HOST or IP ADDRESS on your network using NMAP.
 #
 # FEATURES
-[01] Scan Single HOST/IP    
-
-[02] Scan Multiple SUBNET     
-
-[03] Read HOSTNAME File(txt)         
-
-[04] OS Detection 
-
-[05] Scan Protected Hosts
-
-[06] Scan HOST/IP
-
-[07] Show Packets
-
-[08] Scan Devices
+- [x] Scan Single HOST/IP
+- [x] Scan Multiple SUBNET
+- [x] Read HOSTNAME File(txt) 
+- [x] OS Detection
+- [x] Scan Protected Hosts
+- [x] Scan HOST/IP
+- [x] Show Packets
+- [x] Scan Devices
 #
 # INSTALLATION
 `$ git clone https://github.com/mkdirlove/HOST-FINDER`
@@ -27,3 +20,6 @@ A simple tool that scan LIVE HOST or IP ADDRESS on your network using NMAP.
 #
 # PREVIEW
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/HOST-FINDER/blob/master/1.png)
+#
+# RUNTEST
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/HOST-FINDER/blob/master/2.gif)
