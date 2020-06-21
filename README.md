@@ -1,7 +1,7 @@
 # HOST-FINDER
 A simple tool that scan LIVE HOST or IP ADDRESS on your network using NMAP.
 
-# <img src="https://img.shields.io/badge/MADE%20WITH-BASH-yellowgreen"> <img src="https://img.shields.io/badge/POWERED%20BY:-NMAP-yellowgreen"> <img src="https://img.shields.io/badge/SUPER%20USER-FRIENDLY-yellowgreen">
+# <img src="https://img.shields.io/badge/MADE%20WITH-BASH-yellowgreen"> <img src="https://img.shields.io/badge/POWERED%20BY:-NMAP-yellowgreen"> <img src="https://img.shields.io/badge/VERY%20USER-FRIENDLY-yellowgreen">
 # FEATURES
 - [x] Scan Single HOST/IP
 - [x] Scan Multiple SUBNET
