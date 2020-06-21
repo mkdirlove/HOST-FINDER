@@ -1,5 +1,4 @@
 # HOST-FINDER
-<img src="https://img.shields.io/github/followers/mkdirlove?label=Follow&style=social">
 A simple tool that scan LIVE HOST or IP ADDRESS on your network using NMAP.
 #
 # FEATURES
@@ -24,3 +23,8 @@ A simple tool that scan LIVE HOST or IP ADDRESS on your network using NMAP.
 #
 # RUNTEST
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/HOST-FINDER/blob/master/2.gif)
+#
+<img src="https://img.shields.io/badge/MADE%20WITH-BASH-yellowgreen">
+<img src="https://img.shields.io/github/followers/mkdirlove?label=Follow&style=social">
+
+
