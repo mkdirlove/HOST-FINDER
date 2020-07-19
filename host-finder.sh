@@ -1,3 +1,137 @@
-z="
-";KCz='▄▄▄ ';TCz='  ▀█';mFz='ace ';CGz='1;0m';eEz=' $ip';yEz='done';uDz='le(t';TEz=';';mCz='}';Oz='d to';tz='fi';fFz=' --o';yBz=' ▀██';lCz='93m"';hBz='[40;';nFz='"09"';hEz='$fin';aCz='82m ';LDz='4\e[';wCz='\e[0';CBz='91m ';uFz='31m[';lz='= "n';vz='r';YCz='ODED';vCz='7m01';REz='er" ';iz='apt ';XFz='ss: ';FDz=' Sin';IBz='▄   ';WBz='███▀';SBz='▀███';fEz='host';xCz='m\e[';WDz='cket';sEz='lulz';yDz=' Exi';bFz=' -6 ';PDz='S De';IDz='/IP ';mBz='BY\e';nz='|| [';nDz='n De';FCz='███▄';JCz='██ █';OEz='1" ]';VEz='Ente';YFz=' ipv';vDz='xt) ';wFz='nval';Dz='h nm';KFz='tfil';Qz='inst';QCz='▀▀  ';xDz='0\e[';GEz='mber';BDz='[0m\';gCz=' BUE';oz='"N" ';GDz='gle ';pEz=' "2"';FBz='  █▄';Az='if [';Yz=' "$y';oEz='" ==';qBz='8;5;';GFz=' txt';BFz=' "3"';cBz=' ▀▀█';ZCz=' BY:';HFz='file';RBz=' ███';FGz='bash';CDz='e[1;';QDz='tect';wz='logo';jCz='A\e[';NEz='= "0';qDz='Read';dFz='"07"';YDz='0m\n';ICz='███▌';pDz='7m03';ZFz='sixa';PBz='  ██';Cz='whic';XBz='▀██ ';VFz='v6-A';WEz='r (I';iBz='38;5';fBz='██ ▀';DBz='    ';qEz=' ];';HEz=': " ';EGz='p 1';Kz=' -n ';UEz='then';lBz='RED ';dBz='██▀▀';QBz='█   ';wDz='6\e[';mDz=' Sca';sz='else';rBz='82mN';tEz=' in ';xEz='lz';FEz='a nu';RDz='ion ';UDz=' Sho';XEz='P or';hDz='Prot';ZDz='7m02';eDz='5\e[';tCz='0m\e';aBz='█▄▄ ';UFz='r IP';wEz=' $lu';WCz='40;3';DFz='xt F';kz='elif';lEz='| [ ';bDz='tipl';hz=' the';Hz='; th';AGz='...\';CCz='   ▄';nCz='2';Ez='ap)"';IFz=' -iL';dEz='ame';GCz='▀▀▀█';PEz=' || ';LFz='e';HBz='████';SDz='7\e[';rz='exit';Gz='"" ]';XDz='s\e[';iCz='NTUR';xz='2()';AFz='"03"';LEz='inde';iFz=' "8"';Uz='"';QFz=' "5"';eCz='LLAS';tDz='E Fi';EEz='ose ';cFz='$ipv';cz=' [ "';iDz='ecte';oCz='prin';DCz=' ▄█ ';sFz='"\03';tFz='3[1;';rEz='for ';ZEz='tnam';qz='hen';CEz=' -p ';dCz='ABRI';MBz='1m"';yFz='nput';Rz='alle';iEz='der"';CFz='r Te';Wz=' yor';hCz='NAVE';bEz=' iph';EDz='Scan';oFz=' "9"';BGz='033[';VBz='   ▀';jDz='d Ho';mEz='"$fi';pFz=' -T5';aEz='e): ';Tz='/N] ';kBz='POWE';SEz='== "';LCz='█  ▄';cEz='ostn';pBz='30;4';nBz='[0m ';VCz='93m ';BEz=' ""';Mz='nmap';OFz=' -A ';HCz='█▄ █';AEz='t\e[';ACz='▀   ';OBz='██  ';aFz='ss';uBz='   \';OCz='▀▀▀ ';LBz='\e[9';UCz='▀  █';fz='= "Y';eFz=' "7"';SFz='"06"';Lz='-e "';jFz=' --p';Pz=' be ';Vz='read';NFz=' "4"';gFz='pen ';ADz='m]\e';DDz='36m ';pz=']; t';Nz=' nee';BCz='▄███';RCz='▀▀▀▀';qCz='\e[1';az='"y" ';dDz='BNET';VDz='w Pa';sCz='[\e[';fCz=' SAN';Xz='n';QEz='[ "$';TFz=' "6"';Sz='d [y';tBz='e[0m';KDz='77m0';yCz='1;31';Zz='orn"';MDz='[1;3';aDz=' Mul';ODz=';m O';MFz='"04"';GBz=' ▄██';uEz='$iph';NBz='   █';Bz=' "$(';jBz=';82m';ECz='▄▄▄▄';fDz=';m S';Iz='en';sDz='TNAM';kFz='acke';bz='] ||';MCz='▄▄  ';ez='n" =';mz='" ] ';eBz='▀▀██';wBz='m"';xBz='  █▀';jz='all ';bBz='  ▀ ';pCz='tf "';DEz='"Cho';WFz='ddre';EFz='ile:';Jz='echo';uCz='[1;7';ABz=' -e ';MEz='r" =';rFz=' "0"';lDz='8\e[';bCz='JAYS';vFz='!] I';gBz='  \e';gEz='name';HDz='HOST';xFz='id I';lFz='t-tr';XCz='82mC';SCz='▄  ▀';NDz='1m]\';GGz=' $0';ZBz='▄▄██';gz='" ];';Fz=' == ';KEz=' "$f';BBz='"\e[';EBz='▄█  ';JEz='er';sBz='MAP\';YEz=' Hos';JDz='m[\e';kEz=' ] |';KBz='███ ';hFz='"08"';JFz=' $tx';NCz='██▀ ';kCz='0m  ';JBz='  ▄█';oBz=' \e[';yz='{';PCz='█ ▀▀';oDz='vice';TBz='██▄ ';UBz='█▀  ';nEz='nder';IEz='find';vEz='do';vBz='e[91';DGz='slee';jEz='"02"';PFz='"05"';RFz=' -PN';FFz=' "';TDz=';93m';cDz='e SU';rCz=';31m';uz='clea';gDz='can ';kDz='sts ';cCz='ON C';qFz='"00"';rDz=' HOS';dz='$yor';YBz='██▄▄';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$z$Az$Yz$Zz$Fz$az$bz$cz$dz$ez$fz$gz$hz$Xz$z$iz$Qz$jz$Mz$z$kz$cz$dz$ez$lz$mz$nz$Yz$Zz$Fz$oz$pz$qz$z$rz$z$sz$z$iz$Qz$jz$Mz$z$tz$z$tz$z$uz$vz$z$Jz$z$wz$xz$z$yz$z$Jz$ABz$BBz$CBz$DBz$DBz$DBz$EBz$FBz$DBz$GBz$HBz$IBz$JBz$HBz$KBz$DBz$KBz$DBz$DBz$DBz$DBz$LBz$MBz$z$Jz$ABz$BBz$CBz$DBz$DBz$NBz$OBz$PBz$QBz$KBz$NBz$OBz$RBz$DBz$KBz$SBz$HBz$TBz$DBz$DBz$DBz$LBz$MBz$z$Jz$ABz$BBz$CBz$DBz$DBz$NBz$OBz$PBz$QBz$KBz$NBz$OBz$RBz$DBz$UBz$VBz$WBz$XBz$DBz$DBz$DBz$LBz$MBz$z$Jz$ABz$BBz$CBz$DBz$DBz$JBz$YBz$ZBz$aBz$KBz$NBz$OBz$RBz$DBz$DBz$DBz$KBz$bBz$DBz$DBz$DBz$LBz$MBz$z$Jz$ABz$BBz$CBz$DBz$DBz$cBz$dBz$eBz$UBz$KBz$NBz$fBz$HBz$HBz$KBz$DBz$KBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$DBz$LBz$MBz$z$Jz$ABz$BBz$CBz$DBz$DBz$NBz$OBz$PBz$QBz$KBz$NBz$OBz$DBz$DBz$KBz$DBz$KBz$DBz$oBz$pBz$qBz$rBz$sBz$tBz$DBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$DBz$NBz$OBz$PBz$QBz$KBz$NBz$OBz$JBz$DBz$KBz$DBz$KBz$DBz$DBz$DBz$DBz$LBz$MBz$z$Jz$ABz$BBz$CBz$DBz$DBz$NBz$OBz$xBz$DBz$yBz$HBz$ACz$BCz$HBz$UBz$CCz$HBz$ACz$DBz$DBz$DBz$LBz$MBz$z$Jz$z$Jz$ABz$BBz$CBz$DBz$JBz$HBz$KBz$DCz$RBz$ECz$NBz$HBz$FCz$DBz$GBz$HBz$OBz$JBz$HBz$KBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$RBz$DBz$KBz$KBz$RBz$GCz$HCz$OBz$yBz$QBz$KBz$NBz$OBz$RBz$DBz$KBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$RBz$DBz$UBz$ICz$RBz$NBz$JCz$OBz$PBz$QBz$KBz$NBz$ACz$RBz$DBz$KBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$BCz$KCz$DBz$ICz$RBz$NBz$JCz$OBz$PBz$LCz$FCz$MCz$DBz$BCz$ECz$NCz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$VBz$SBz$OCz$DBz$ICz$RBz$NBz$JCz$OBz$PBz$PCz$WBz$QCz$VBz$SBz$RCz$ACz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$RBz$DBz$DBz$KBz$RBz$NBz$JCz$OBz$PBz$QBz$KBz$NBz$SCz$HBz$HBz$KBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$RBz$DBz$DBz$KBz$RBz$NBz$JCz$OBz$GBz$QBz$KBz$NBz$OBz$RBz$DBz$KBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$RBz$DBz$DBz$UBz$TCz$NBz$UCz$HBz$WBz$DBz$HBz$HBz$OBz$RBz$DBz$KBz$uBz$vBz$wBz$z$Jz$ABz$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$PBz$QBz$RBz$DBz$DBz$uBz$vBz$wBz$z$Jz$z$Jz$ABz$BBz$VCz$DBz$DBz$DBz$oBz$WCz$qBz$XCz$YCz$ZCz$oBz$pBz$qBz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$DBz$DBz$DBz$oBz$lCz$z$mCz$z$Jz$z$wz$nCz$z$Jz$z$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$DBz$wCz$xCz$yCz$JDz$BDz$CDz$KDz$LDz$tCz$MDz$NDz$tBz$qCz$ODz$PDz$QDz$RDz$DBz$DBz$wCz$xCz$yCz$JDz$BDz$CDz$KDz$SDz$tCz$MDz$NDz$tBz$qCz$TDz$UDz$VDz$WDz$XDz$YDz$Uz$z$oCz$pCz$qCz$rCz$sCz$tCz$uCz$ZDz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$aDz$bDz$cDz$dDz$DBz$wCz$xCz$yCz$JDz$BDz$CDz$KDz$eDz$tCz$MDz$NDz$tBz$qCz$fDz$gDz$hDz$iDz$jDz$kDz$wCz$xCz$yCz$JDz$BDz$CDz$KDz$lDz$tCz$MDz$NDz$tBz$qCz$TDz$mDz$nDz$oDz$XDz$YDz$Uz$z$oCz$pCz$qCz$rCz$sCz$tCz$uCz$pDz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$qDz$rDz$sDz$tDz$uDz$vDz$wCz$xCz$yCz$JDz$BDz$CDz$KDz$wDz$tCz$MDz$NDz$tBz$qCz$fDz$gDz$HDz$IDz$DBz$DBz$wCz$xCz$yCz$JDz$BDz$CDz$KDz$xDz$tCz$MDz$NDz$tBz$qCz$TDz$yDz$AEz$YDz$Uz$z$Jz$BEz$z$Vz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$z$Az$KEz$LEz$MEz$NEz$OEz$PEz$QEz$IEz$REz$SEz$OEz$TEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$Jz$z$Mz$eEz$fEz$gEz$z$kz$cz$hEz$iEz$Fz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$rEz$sEz$tEz$uEz$cEz$dEz$z$vEz$z$Jz$z$Mz$wEz$xEz$z$yEz$z$kz$cz$hEz$iEz$Fz$AFz$kEz$lEz$mEz$nEz$oEz$BFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$CFz$DFz$EFz$FFz$z$Vz$GFz$HFz$z$Jz$z$Mz$IFz$JFz$KFz$LFz$z$kz$cz$hEz$iEz$Fz$MFz$kEz$lEz$mEz$nEz$oEz$NFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$Jz$z$Mz$OFz$uEz$cEz$dEz$z$kz$cz$hEz$iEz$Fz$PFz$kEz$lEz$mEz$nEz$oEz$QFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$Jz$z$Mz$RFz$eEz$fEz$gEz$z$kz$cz$hEz$iEz$Fz$SFz$kEz$lEz$mEz$nEz$oEz$TFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$UFz$VFz$WFz$XFz$Uz$z$Vz$YFz$ZFz$WFz$aFz$z$Jz$z$Mz$bFz$cFz$ZFz$WFz$aFz$z$kz$cz$hEz$iEz$Fz$dFz$kEz$lEz$mEz$nEz$oEz$eFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$Jz$z$Mz$fFz$gFz$uEz$cEz$dEz$z$kz$cz$hEz$iEz$Fz$hFz$kEz$lEz$mEz$nEz$oEz$iFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$Jz$z$Mz$jFz$kFz$lFz$mFz$uEz$cEz$dEz$z$kz$cz$hEz$iEz$Fz$nFz$kEz$lEz$mEz$nEz$oEz$oFz$qEz$z$UEz$z$Jz$z$Jz$Kz$Lz$VEz$WEz$XEz$YEz$ZEz$aEz$Uz$z$Vz$bEz$cEz$dEz$z$Jz$z$Mz$pFz$eEz$fEz$gEz$z$kz$cz$hEz$iEz$Fz$qFz$kEz$lEz$mEz$nEz$oEz$rFz$qEz$z$UEz$z$uz$vz$z$rz$z$sz$z$Jz$z$Jz$ABz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$Uz$z$DGz$EGz$z$FGz$GGz$z$tz"
+#!/usr/bin/bash
+
+# AUTHOR: JAYSON CABRILLAS SAN BUENAVENTURA
+# Github: http://github.com/mkdirlove
+
+# Check if nmap installed & install nmap it it's not
+if [ "$(which nmap)" == "" ]; then
+	read -p "Need to install NMAP (Y/n): " choose
+	if [ "$choose" == "y" ] || [ "$choose" == "Y" ]; then
+		sudo apt install nmap
+	elif [ "$choose" == "n" ] || [ "$choose" == "N" ]; then
+		exit
+	else
+		sudo apt install nmap
+	fi
+fi
+
+clear
+echo
+banner()
+{
+echo -e "\e[91m             ▄█    █▄     ▄██████▄     ▄████████     ███                 \e[91m" 
+echo -e "\e[91m            ███    ███   ███    ███   ███    ███ ▀█████████▄             \e[91m" 
+echo -e "\e[91m            ███    ███   ███    ███   ███    █▀     ▀███▀▀██             \e[91m" 
+echo -e "\e[91m           ▄███▄▄▄▄███▄▄ ███    ███   ███            ███   ▀             \e[91m" 
+echo -e "\e[91m          ▀▀███▀▀▀▀███▀  ███    ███ ▀███████████     ███   \e[40;38;5;82mPOWERED BY\e[0m     \e[91m" 
+echo -e "\e[91m            ███    ███   ███    ███          ███     ███      \e[30;48;5;82mNMAP\e[0m       \e[91m" 
+echo -e "\e[91m            ███    ███   ███    ███    ▄█    ███     ███                 \e[91m" 
+echo -e "\e[91m            ███    █▀     ▀██████▀   ▄████████▀     ▄████▀               \e[91m" 
+echo                                                                                   
+echo -e "\e[91m       ▄████████  ▄█  ███▄▄▄▄   ████████▄     ▄████████    ▄████████    \e[91m" 
+echo -e "\e[91m      ███    ███ ███  ███▀▀▀██▄ ███   ▀███   ███    ███   ███    ███    \e[91m" 
+echo -e "\e[91m      ███    █▀  ███▌ ███   ███ ███    ███   ███    █▀    ███    ███    \e[91m" 
+echo -e "\e[91m     ▄███▄▄▄     ███▌ ███   ███ ███    ███  ▄███▄▄▄      ▄███▄▄▄▄██▀    \e[91m" 
+echo -e "\e[91m    ▀▀███▀▀▀     ███▌ ███   ███ ███    ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀      \e[91m" 
+echo -e "\e[91m      ███        ███  ███   ███ ███    ███   ███    █▄  ▀███████████    \e[91m" 
+echo -e "\e[91m      ███        ███  ███   ███ ███   ▄███   ███    ███   ███    ███    \e[91m" 
+echo -e "\e[91m      ███        █▀    ▀█   █▀  ████████▀    ██████████   ███    ███    \e[91m" 
+echo -e "\e[91m                                                   ███    ███           \e[91m"
+echo
+echo -e "\e[93m              \e[40;38;5;82mCODED BY: \e[30;48;5;82m JAYSON CABRILLAS SAN BUENAVENTURA\e[0m               \e[93m"
+}
+
+echo
+banner
+echo
+printf "\e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[1;36m Scan Single HOST/IP     \e[0m\e[1;31m[\e[0m\e[1;77m04\e[0m\e[1;31m]\e[0m\e[1;m OS Detection         \e[0m\e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;31m]\e[0m\e[1;93m Show Packets\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;36m Scan Multiple SUBNET    \e[0m\e[1;31m[\e[0m\e[1;77m05\e[0m\e[1;31m]\e[0m\e[1;m Scan Protected Hosts \e[0m\e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;31m]\e[0m\e[1;93m Scan Devices\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m03\e[0m\e[1;31m]\e[0m\e[1;36m Read HOSTNAME File(txt) \e[0m\e[1;31m[\e[0m\e[1;77m06\e[0m\e[1;31m]\e[0m\e[1;m Scan HOST/IP         \e[0m\e[1;31m[\e[0m\e[1;77m00\e[0m\e[1;31m]\e[0m\e[1;93m Exit\e[0m\n"
+echo ""
+read -p "Choose a number: " finder
+if [ "$finder" == "01" ] || [ "$finder" == "1" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+echo
+nmap $iphostname
+
+elif [ "$finder" == "02" ] || [ "$finder" == "2" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+for jayson in $iphostname
+do
+  echo
+  nmap -Pn $jayson
+done
+
+elif [ "$finder" == "03" ] || [ "$finder" == "3" ];
+then
+echo
+echo -n -e "Enter Text File: "
+read txtfile
+echo
+nmap -iL $txtfile
+
+elif [ "$finder" == "04" ] || [ "$finder" == "4" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+echo
+nmap -A $iphostname
+
+elif [ "$finder" == "05" ] || [ "$finder" == "5" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+echo
+nmap -PN $iphostname
+
+elif [ "$finder" == "06" ] || [ "$finder" == "6" ];
+then
+echo
+echo -n -e "Enter IPv6-Address: "
+read ipv6add
+echo
+nmap -6 $ipv6add
+
+elif [ "$finder" == "07" ] || [ "$finder" == "7" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+echo
+nmap --open $iphostname
+
+elif [ "$finder" == "08" ] || [ "$finder" == "8" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+echo
+nmap --packet-trace $iphostname
+
+elif [ "$finder" == "09" ] || [ "$finder" == "9" ];
+then
+echo
+echo -n -e "Enter (IP or Hostname): "
+read iphostname
+echo
+nmap -T5 $iphostname
+
+elif [ "$finder" == "00" ] || [ "$finder" == "0" ];
+then
+clear
+exit
+
+else
+echo
+echo -e "\033[1;31m[!] Invalid Input...\033[1;0m"
+sleep 1
+bash $0
+fi
